@@ -1,4 +1,4 @@
-<img width="1140" height="587" alt="image" src="https://github.com/user-attachments/assets/ca372396-8d0c-48cc-b6b8-77ce3ef66a9e" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ca372396-8d0c-48cc-b6b8-77ce3ef66a9e" />
 
 # Side Navigation Bar Project
 

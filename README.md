@@ -1,3 +1,7 @@
+![Uploading image.png…]()
+
+
+
 # Side Navigation Bar Project
 
 A responsive and interactive sidebar navigation menu created using pure **HTML5** and **CSS3**.
